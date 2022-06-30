@@ -1,0 +1,43 @@
+.body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+} 
+
+.thum{
+    width: 100%;
+    height: 26rem;
+}
+ul{
+    list-style: none;
+}
+
+ ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.row .captionn a{
+    color: black;
+    text-decoration: none;
+}
+
+.col-md-3 .row a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.carousel .carousel-inner a{
+    color: white;
+    text-decoration: none;
+}
+.carousel .carousel-inner .carousel-caption{
+    background-color: #112B3C;
+}
+
+.footersectionli .fa-brands{
+    color:#EF4B4C;
+    bottom: 0;
+    position: static;
+}
+ 
